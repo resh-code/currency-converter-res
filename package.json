@@ -1,0 +1,23 @@
+{
+  "name": "currency-converter-res",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/resh-code/currency-converter-res.git"
+  },
+  "author": "Apache-2.0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/resh-code/currency-converter-res/issues"
+  },
+  "homepage": "https://github.com/resh-code/currency-converter-res#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
